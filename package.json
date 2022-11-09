@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "sharp": "^0.31.2"
+  },
+  "name": "arknights-tools",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "scripts": {
+    "alpha": "node alpha.js"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "description": "A collection of datamining tools for the mobile game Arknights."
+}
